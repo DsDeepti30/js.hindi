@@ -1,1 +1,7 @@
+const accountId =14453
+let accountEmail ="hello@google.com"
+var accountPassword = "346"
+accountCit = "Jaipur"
 
+accountId = 2
+console.log(accouuntId)
